@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1494657744 source:c:\users\chronos-laptop\documents\ed1\hashtable\main.cpp
+	"hashtable.h"
+
+1494655859 source:c:\users\chronos-laptop\documents\ed1\hashtable\item.cpp
+	"item.h"
+
+1494655868 c:\users\chronos-laptop\documents\ed1\hashtable\item.h
+	<iostream>
+
+1494657372 source:c:\users\chronos-laptop\documents\ed1\hashtable\listaenlazada.cpp
+	"listaenlazada.h"
+
+1494656208 c:\users\chronos-laptop\documents\ed1\hashtable\listaenlazada.h
+	"item.h"
+
+1494656245 source:c:\users\chronos-laptop\documents\ed1\hashtable\hashtable.cpp
+	"hashtable.h"
+
+1494656911 c:\users\chronos-laptop\documents\ed1\hashtable\hashtable.h
+	"listaenlazada.h"
+
